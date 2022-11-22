@@ -53,10 +53,10 @@ alert(userName); // 'John'
 showMessage(); // 'Hello, John'
 
 alert(userName); //  'John'
-```
 
-8. What is a Anonymous Function give example of three functions.
 ```
+8. What is a Anonymous Function give example of three functions.
+
 Anonymous Function is a function that does not have any name associated with it.
 example- 
 let greet = function () {
@@ -81,7 +81,7 @@ Function starting with…
 "calc…" – calculate something,
 "create…" – create something,
 "check…" – check something and return a boolean, etc.
-```
+
 getPrice
 calculateAge
 createList
